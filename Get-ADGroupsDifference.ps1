@@ -99,7 +99,7 @@ Function Get-ADGroupsDifference {
                                the function renamed from Get-ADGroupDifferences to Get-AdGroupsDifference
         - 0.4.1 - 2016-08-24 - Scenarios when evaluated accounts are not members of any group added partially, TODO added, help updated
         - 0.4.2 - 2016-09-07 - Error with returning groups corrected
-        - 0.4.2 - 2018-01-04 - Add GroupName property and hide CN/DN paths by default to improve table formatting
+        - 0.4.3 - 2018-01-04 - Add GroupName property and hide CN/DN paths by default to improve table formatting
         
         LICENSE
         Copyright (c) 2015-2016 Wojciech Sciesinski
